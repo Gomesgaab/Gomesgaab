@@ -4,13 +4,13 @@
 - 💞️ I’m looking to collaborate on redes
 - 📫 How to reach me gabrielgabiga870@gmail.com
 
-- ### "Eu sou aquilo que não pode ser questionada. Eu sou aquilo que as pessoas dizem procurar. Eu sou aquilo que as pessoas costumam dizer que sabem. Eu sou aquilo que não existe em totalidade mesmo sendo supostamente universal, o que eu sou?"
+- ### "A esperança é um alimento da nossa alma, ao qual se mistuyra sempre o veneno do medo"
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXBDKXx&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXBDKXx&layout=compact&theme=tokyonight)](https://github.com/xXBDKXx/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomesgaab&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomesgaab&layout=compact&theme=tokyonight)](https://github.com/Gomesgaab/github-readme-stats)
 
-🔭 Um mero mortal no mundo da programação ...
-🌱 Aprendendo C# e C++ ...
+🔭  ...
+🌱 Aprendendo C# ...
 ⚡ May the Force be with you...
 
 
