@@ -9,11 +9,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomesgaab&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomesgaab&layout=compact&theme=tokyonight)](https://github.com/Gomesgaab/github-readme-stats)
 
-< p  alinhar = " centro " >
-  < a  href = " https://skillicons.dev " >
-    < img  src = " https://skillicons.dev/icons?i=cpp,azure,react,cs,flutter,linux,python " />
-  </a> _ _
-</p> _ _
+
++ < p  alinhar = " centro " >
++  < a  href = " https://skillicons.dev " >
++    < img  src = " https://skillicons.dev/icons?i=cpp,azure,react,cs,flutter,linux,python " />
++  </a> _ _
++ </p> _ _
 
 #
 
