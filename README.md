@@ -20,4 +20,5 @@
 
 # my networks
 [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](https://skillicons.dev)
+
 https://www.linkedin.com/in/gabriel-gomes-7471aa27a/
