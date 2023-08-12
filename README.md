@@ -25,4 +25,4 @@ https://www.linkedin.com/in/gabriel-gomes-7471aa27a/
 
 <a href="https://www.instagram.com/gaab_gsilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<a href="https://www.instagram.com/gaab_gsilva/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel-gomes-7471aa27a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
