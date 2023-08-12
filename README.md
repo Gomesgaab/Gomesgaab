@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?cs,dotnet,linux,mysql" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,linux,mysql" />
   </a>
 </p>
 
