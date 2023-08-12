@@ -11,11 +11,15 @@
 🌱 Aprendendo C# , .Net é configuração de servidores...
 ⚡ Sem medo de errar é sempre aprendendo...
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?dotnet,mysql,cs" />
-  </a>
-</p>
+[ ![ Minhas habilidades ] ( https://skillicons.dev/icons?i=cpp,cs,dotnet,linux,mysql&perline=3 )] ( https://skillicons.dev )
+## Minhas habilidades
+< p  alinhar = " centro " >
+  < a  href = " https://skillicons.dev " >
+    < img  src = " https://skillicons.dev/icons?i=cpp,cs,dotnet,linux,mysql " />
+  </a> _ _
+</p> _ _
+
+
 <!---
 Gomesgaab/Gomesgaab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
