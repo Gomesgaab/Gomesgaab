@@ -19,4 +19,4 @@
 </p>
 
 # My instagram
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev/icons?i=linkedin)
