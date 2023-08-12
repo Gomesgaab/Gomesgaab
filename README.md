@@ -18,5 +18,5 @@
   </a>
 </p>
 
-# My instagram
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+# My reds
+[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin&perline=1)](https://skillicons.dev)
