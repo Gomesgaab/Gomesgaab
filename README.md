@@ -18,5 +18,5 @@
   </a>
 </p>
 
-# My reds
+# My nets
 [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin&perline=1)](https://skillicons.dev)
