@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Gomesgaab
 - 👀 I’m interested in Redes e programação
-- 🌱 I’m currently learning C# é Servidores
-- 💞️ I’m looking to collaborate on redes
 - 📫 How to reach me gabrielgabiga870@gmail.com
 
 - ### "A esperança é um alimento da nossa alma, ao qual se mistura sempre o veneno do medo"
@@ -13,7 +11,11 @@
 🌱 Aprendendo C# , .Net é configuração de servidores...
 ⚡ Sem medo de errar é sempre aprendendo...
 
-[![My Skills](https://skillicons.dev/icons?i=js,dotnet,cs,mysql)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?dotnet,mysql,cs" />
+  </a>
+</p>
 <!---
 Gomesgaab/Gomesgaab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
