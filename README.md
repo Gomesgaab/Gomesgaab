@@ -11,13 +11,13 @@
 🌱 Aprendendo C# , .Net é configuração de servidores...
 ⚡ Sem medo de errar é sempre aprendendo...
 
-[ ![ Minhas habilidades ] ( https://skillicons.dev/icons?i=cpp,cs,dotnet,linux,mysql&perline=3 )] ( https://skillicons.dev )
-## Minhas habilidades
 < p  alinhar = " centro " >
   < a  href = " https://skillicons.dev " >
-    < img  src = " https://skillicons.dev/icons?i=cpp,cs,dotnet,linux,mysql " />
+    < img  src = " https://skillicons.dev/icons?i=cpp,azure,react,cs,flutter,linux,python " />
   </a> _ _
 </p> _ _
+
+#
 
 
 <!---
