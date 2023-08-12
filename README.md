@@ -10,16 +10,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomesgaab&layout=compact&theme=tokyonight)](https://github.com/Gomesgaab/github-readme-stats)
 
 
-+ < p  alinhar = " centro " >
-+  < a  href = " https://skillicons.dev " >
-+    < img  src = " https://skillicons.dev/icons?i=cpp,azure,react,cs,flutter,linux,python " />
-+  </a> _ _
-+ </p> _ _
-
-#
-
-
-<!---
 Gomesgaab/Gomesgaab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
