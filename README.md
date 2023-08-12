@@ -13,7 +13,7 @@
 🌱 Aprendendo C# , .Net é configuração de servidores...
 ⚡ Sem medo de errar é sempre aprendendo...
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,dotnet,cs,mysql)](https://skillicons.dev)
 <!---
 Gomesgaab/Gomesgaab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
