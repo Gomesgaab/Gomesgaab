@@ -7,7 +7,7 @@
 - 🔭 Amante da vida...
 - 🌱 Numca parado, sempre aprendendo.
 - ⚡ Sem medo de errar é sempre aprendendo...
-- ### "A esperança é um alimento da nossa alma, ao qual se mistura sempre o veneno do medo"
+- ### "A maior prisão que vivemos é a dos nossos pensamentos"
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomesgaab&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomesgaab&show=compact&theme=tokyonight)](https://github.com/Gomesgaab/github-readme-stats)
@@ -22,7 +22,5 @@
 </p>
 
 # my networks
-
-<a href="https://www.instagram.com/gaab_gsilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <a href="https://www.linkedin.com/in/gabriel-gomes-7471aa27a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=White" target="_blank"></a>
