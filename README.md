@@ -8,10 +8,13 @@
 <p>
   <ul>O medo e como a fé, a crença no incerto, o medo pode nos prender em gaiolas que nós limitarão</ul>
   <ul>### A maior prisão que vivemos é a dos nossos pensamentos</ul>
-</p>
+</p><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomesgaab&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomesgaab&show=compact&theme=tokyonight)](https://github.com/Gomesgaab/github-readme-stats)
+ <div align="center">
+  <a href="https://github.com/EduardaPires">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gomesgaab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomesgaab&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 ## My skills
