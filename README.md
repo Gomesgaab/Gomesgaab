@@ -21,10 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,linux,mysql,html,css,php,flutter" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,kali,redhat,bash,mysql,cs,html,css,php,flutter" />
   </a>
 </p>
 
-# my networks
-
-<a href="www.linkedin.com/in/gabriel-gomes-da-silva-7471aa27a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=White" target="_blank"></a>
