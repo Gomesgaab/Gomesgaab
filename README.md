@@ -2,7 +2,7 @@
 <br>
 <p size="16"> 
   <ul>Estou estudando atualmente Segurança da informação - SJ - SBC - SP</ul>
-  <ul>Estou aprendendo python,PHP,C</ul>
+  <ul>Estou estudando vulnerabilidaes, frameworks e pentest</ul>
 </p>
 
 <p>
